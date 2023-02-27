@@ -21,7 +21,7 @@ let language = 'en';  // Default to English.
     }
   }
   // Load Blockly's language strings.
-  document.write('<script src="./node_modules/blockly/msg/' + language + '.js"></script>\n');
+  document.write('<script src="https://poc-blockly.000webhostapp.com/node_modules/blockly/msg/' + language + '.js"></script>\n');
 })();
 
 /**
